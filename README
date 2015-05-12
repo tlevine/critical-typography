@@ -1,0 +1,35 @@
+Here are the ideas from my friend who works at NYPL labs on image repositories
+for computational study of typographic rules in books.
+
+I'm thinking margins are the easiest thing to start with, but they're also
+among the least interesting things. Obvious other things are x-height,
+depth of impression (precision of makeready), presence of italic lettering
+and small capital letters, presence of widows and orphans, ....
+
+> On Tue, Jul 02, 2013 at 12:01:03PM -0400, David Riordan wrote:
+> > Hrm... I'm trying to think of what would be an excellent corpus for
+> > something like that...
+> >
+> > You could do all american public domain newspapers [
+> > http://chroniclingamerica.loc.gov/]
+> > Really everything from LC is a decent corpus since they allow downloading
+> > the TIFF
+> >
+> > There's also every text document on the internet archive - which
+> includes a
+> > sizable percentage of the stuff scanned by Google:
+> >
+> http://archive.org/search.php?query=%22Book%20digitized%20by%20Google%22%20AND%20mediatype%3Atexts
+> >
+> > ACTUALLY - Biodiversity Heritage Library would be exceptional -
+> > http://archive.org/details/biodiversity. VERY high quality images - OCR
+> > already performed, everything can be streamed via HTTP... And it's an
+> > amazing collection of books about biology over time...
+> >
+> > Lemme think of a few other places that could be great.
+> >
+> > what kind of dimensions are you thinking of - timespan, diversity of
+> fonts,
+> > variation of printers, etc?
+> >
+
